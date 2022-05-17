@@ -36,12 +36,17 @@ SAP Fiori elements application for managing products
 ```
     npm run start-mock
 ```
-para instalar todos los modulos
-npm i 
+
 
 #### Pre-requisites:
 
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
+
+Si luego de clonar el repositorio saca error al intentar ejecutarlo usar el siguiente comando
+
+npm i
+
+para instalar todos los modulos necesarios y ahi si deja correrlo.
 
 evidencia:
 ![image](https://user-images.githubusercontent.com/69651479/168909851-f5a242b8-988c-4a81-92e2-26d61681f362.png)
