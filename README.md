@@ -42,6 +42,9 @@ SAP Fiori elements application for managing products
 
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
 
+
+#### NOTA:
+
 Si luego de clonar el repositorio saca error al intentar ejecutarlo usar el siguiente comando
 
 npm i
