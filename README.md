@@ -36,6 +36,8 @@ SAP Fiori elements application for managing products
 ```
     npm run start-mock
 ```
+para instalar todos los modulos
+npm i 
 
 #### Pre-requisites:
 
